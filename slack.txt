@@ -1,0 +1,16 @@
+Name: Allison Blair
+NUID: 002153532
+slack hours used: 0
+remaining slack hours: 120
+
+---
+Collaborators (who you talked to about the lab, what you talked about): N/A
+
+
+Source material that you consulted: Lab 1 Materials on class website, CS3650
+Piazza page
+
+
+Other acknowledgments: N/A
+
+
