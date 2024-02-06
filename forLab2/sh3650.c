@@ -195,20 +195,9 @@ int main(int argc, char **argv)
          pwd(n_tokens, tokens);
          } else if (strcmp(tokens[0], "exit") == 0) {
           exit_v2(n_tokens, tokens);
-         } else if(strcmp(tokens[0], "ls") == 0) {
-          ls_command(n_tokens, tokens);
-         } else if(strcmp(tokens[0], "echo") == 0) {
+         } else {
           echoStatus(n_tokens, tokens);
           ls_command(n_tokens, tokens);
-         } else if(strcmp(tokens[0], "false") == 0) {
-          testFalse();
-         } else if(strcmp(tokens[0], "cat") == 0) {
-          ls_command(n_tokens, tokens);
-         } else if(strcmp(tokens[0], "true") == 0) {
-           status = 0;
-         } else {
-           printf("%s: No such file or directory\n", tokens[0]);
-           status = 1;
           }
         }
     }
