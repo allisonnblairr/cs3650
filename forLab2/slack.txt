@@ -1,0 +1,18 @@
+Name: Allison Blair
+NUID: 002153532
+slack hours used: 0
+remaining slack hours: 120
+
+---
+Collaborators (who you talked to about the lab, what you talked about):
+N/A
+
+Source material that you consulted:
+class handouts from session 2, chapter readings from session 2, man lookup,
+c documentation from microsoft, lab 2 description, piazza page
+
+Other acknowledgments: 
+stack overflow and git documentation -- git crashed on me and was saying 
+files were corrupt 
+
+
